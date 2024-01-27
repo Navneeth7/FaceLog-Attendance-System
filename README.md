@@ -1,7 +1,8 @@
 The FaceLog Attendance System is a personnel-attendance system which provides an interface for user attendance based on their face-id.
 The machine learning based computer vision library used for this project is from the repository 'face_recognition' by ageitgey(ref:https://github.com/ageitgey/face_reco... ) which was proven to show a high degree of robustness and accuracy. Using this library the system was able to detect registered users with a high accuracy measure thereby logging their attendance details into a file. System has four main features- login , logout, and register.
 
-![Screenshot (36).png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%2836%29.png)
+![Screenshot (36)](https://github.com/Navneeth7/FaceLog-Attendance-System/assets/89082421/811fc49b-fc2e-4ee0-9331-f1906d236dd5)
+
 
 The user, if new to the system, first has to register by entering their name which is then stored in the database.  
 
